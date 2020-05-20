@@ -1,0 +1,25 @@
+UI/UX
+
+1. Primarily non-visual.
+UX
+
+2. Creates tangible, material results.
+UI
+
+3.Development is driven by user behavior and feedback.
+UX
+
+4. Rooted primarily in graphic design.
+UI
+
+5. Generating Solutions to elevate user engagement on a given website.
+UX
+
+6. Making decisions to define the form, aesthetics and look and feel of a site.
+UI
+
+7. Concerned with how a user chooses to navigate through a website.
+UX
+
+8. Rooter in research,planning and testing.
+UX

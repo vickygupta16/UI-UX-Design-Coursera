@@ -1,0 +1,28 @@
+1. Project Name-
+~AnyTimeFood
+
+2.
+a. What is it?
+~An android application which will be used for ordering food at any time whenever the user/customer needs.
+b. Who is it for?
+~This app can be used by users within the age limit of 18-40.
+c. Where will it live?
+~The android app AnyTimeFood can be installed and used in all versions of Android Smartphones and Tablets.
+
+3. Tagline
+~AnyTimeFood delivering deliciuous and tasty food to all those who are foodies as well as non-foodies or who all wants to try some new taste for their fun.
+
+4. Description
+~This app has access to geolocation i.e. user location and makes it easy for an user to track good quality restaurant or hotels nearby them from which users can order food for them AnyTime.
+
+
+
+
+https://www.coursera.org/learn/visual-elements-user-interface-design/peer/uT93V/defining-the-look-and-feel-of-your-project/review/sct2lpn1EeqcPw4O4IuzPQ
+
+week 4-
+https://www.coursera.org/learn/visual-elements-user-interface-design/peer/Be6RJ/sketch-your-static-interface/review/rhHdepoNEeqiCA48SIT4-Q
+
+done.....plz review my assignment and pass please....thanks in advance.
+
+plz review my assignment too.....thanks in advance
