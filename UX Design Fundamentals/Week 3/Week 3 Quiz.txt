@@ -1,0 +1,19 @@
+Choose the heuristic that best applies to the following
+
+1.  the dreaded spinning circle on YouTube
+~ Visibility of System status
+
+2. an automated chatbot “therapy” app that sends you warm, positive text messages throughout the day.
+~ Match between system and the real world.
+
+3. Gmail’s notification when you have forgotten to attach a document to an outgoing email.
+~Error Prevention
+
+4. Google’s advanced image search.
+~Flexibility and efficiency of use.
+
+5. The “Like” or “thumbs up” button across various platforms.
+~Consistency and standards.
+
+
+https://www.coursera.org/learn/ux-design-fundamentals/peer/LF6pT/journey-to-the-surface-of-the-app/review/n8rDjZs8Eeq2fA6wuknGfQ

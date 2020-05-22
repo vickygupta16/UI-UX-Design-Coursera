@@ -1,0 +1,43 @@
+Project Title -
+Budgetary Control Application
+
+App's name and tagline -
+ Budget Controller.
+Bored of writing or trying to keep remembering your expense records? Time to use our very own simple and user-friendly App.
+
+Description of App -
+Problem - People who wants to keep a track of how much amount they spent on what thing tries to write somewhere or usually they try to remember but end up messing up with all amounts.
+Solution - This App will help users to save theri daily expense record through which they can not only have a list of expense history but will also have a control on your monthly budget.
+
+
+4 specific functions -
+Expense Record Entry allowing user to enter amount and the thing on which they spent respectively.
+Expense History which will display users expense record tracks up to date.
+Suggestion from App if user spends more money than the monthly budget saved.
+Profile Update where user can update their personal details.
+
+4 potential roles -
+User of 1st category is where he/she earns less but spends more.
+User of 2nd category is where he/she earns more but spends less.
+User of 3rd category is where he/she earns less as well as spends less.
+User of 4th category is where he/she earns more as well as spends more.
+User of 1st category can have an attachment like the app is build for themselves.They can have their expense track and can control their monthly budget and save money when not necessary.
+
+4 client/designer goals -
+Expense Record Entry.
+Expense History List.
+Profile Edit/Update.
+Login/Register.
+
+3 existing apps -
+Expense Manager - allows user to keep track of all types of expense done and many other options.
+Spending Tracker.
+Money Manager Expense & Budget.
+
+
+Week 1 
+https://www.coursera.org/learn/ux-design-fundamentals/peer/EyZCG/an-app-of-my-own/review/IIkPBpq2EeqQ0QotGUEqRQ
+
+Week 2
+https://www.coursera.org/learn/ux-design-fundamentals/peer/o5Huh/map-your-app/review/J65auprZEeqQ0QotGUEqRQ
+
