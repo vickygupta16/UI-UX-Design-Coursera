@@ -1,0 +1,34 @@
+1.It is more economical to develop.
+~Website
+
+2. It can be viewed across different devices and platforms.
+~Website
+
+3. It can be displayed on any device.
+~Website
+
+4. It is easy to share content with others.
+~Website
+
+5.Its content can be easily indexed by search engines.
+~Website
+
+6.It can be integrated into the operating system, allowing for access to advanced device capabilities, such as fingerprint or iris scanners.
+~App
+
+7. It can be displayed only on the operating system it was designed for.
+~App
+
+8. It is easier to monetize.
+~App
+
+9.It requires that users download and install it onto their devices
+~App
+
+10. It’s easier to control how users can interact with and view content.
+~App
+
+
+
+
+https://www.coursera.org/learn/web-design-strategy/peer/jGsu2/project-ideas/review/bqyDrJwUEeqQ0QotGUEqRQ
