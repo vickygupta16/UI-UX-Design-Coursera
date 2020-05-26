@@ -1,0 +1,23 @@
+1.You have an important message that you want to share with the users of your website through a site alert. In which of the following sections would it be the most appropriate for the site alert to appear?
+~header
+
+2.You want to deter visitors to your website from copying or re-using your content by posting a copyright notice. In which of the following sections does a copyright notice usually appear?
+~footer
+
+3.Your website's business has multiple sponsors who are important contributors to the business and need to be recognized as such, but you don't want the placement of their logos to supercede your own. In which of the following sections would it be appropriate to ads or affiliate links for these sponsors?
+~sidebar
+
+4.What is the advantage of an accordion on a website? Check all that apply.
+~The user gets a scannable overview of the scope of information, Complex, lengthy information can be presented in a more compact way., It lets the user open and close content buckets.
+
+5.A client that runs a candy company has asked you to build a pop-up survey on their website to determine which of their top 8 chocolate bars have users consumed in the last year. Which of the following would be the most appropriate form element to collect this information?
+~checkbox
+
+6.A beer company has asked you to design a landing page for their website to ensure access is restricted to users aged 21 and up—the landing page will prompt users to enter their birthdate. Which of the following would be an appropriate form element to use?
+~date picker
+
+7.A software company would like to survey users about what mobile operating system they use most often—Android, iOS, Windows, or “Other”. Which of the following would be an appropriate form element to use?
+~radio
+
+8.An organic farmer has enlisted your services to help her augment her online ordering system for her restaurant clients. She would like her users to be able to choose a specific quantity of fresh produce from a list of what will be harvested that week. Which of the following would be an appropriate form element to use?
+~number stepper

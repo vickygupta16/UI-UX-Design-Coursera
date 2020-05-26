@@ -1,0 +1,23 @@
+1.True or False? Primary navigation menus should always appear horizontally at the top of a page.
+~False
+
+2.Look at the image taken of the navigation elements that appear at the top of the Coursera website.
+The profile icon with the learner's name in the right hand corner of the image is an example of
+~ utlity navigation
+
+3.Look at the image taken of the navigation elements that appear at the top of the Coursera website.
+Why might have Coursera’s designers decided to permanently place a search field in this area?
+~Coursera's outline of scope probably determined that search is an important functionality requirement.
+
+4.Look at the image taken from a science course's description page on the Coursera platform.
+This section, titled “You May Also Like," is an example of what kind of navigational element?
+~ related content.
+
+5.Look at the image taken of the navigation elements that appear at the top of the Coursera website.
+What navigational system does the blue “Explore” button use?
+~secondary navigation
+
+6.Looking at this page on the CalArts website, which of the following wayfinding functions does the blue CalArts logo in the upper-left corner of the image accomplish?
+
+Select all that apply.
+~it lets learners navigate back to the calarts homepage, it lets learners see what they're on.
