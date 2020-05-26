@@ -1,0 +1,21 @@
+1.Fill in the blank: Hierarchy is created through _______. (answer is one word)
+~contrast
+
+2.On the homepage for Wealthsimple.com, which of the following principles of visual contrast is used? Click all that apply.
+~color,space,direction
+
+
+3.On the homepage for Neamedia.fr, which of the following principles of visual contrast are used? Click all that apply.
+~scale,color,weight
+
+4.Why is it important to consider whitespace in web design?
+~It creates drama in a composition and lead the user's eye around.
+
+5.True or false: Hierarchy enables a designer to guide a viewer's attention equally to all of the elements on the screen.
+~False
+
+6.True or False: Whitespace must always be white.
+~False
+
+7.What is an important difference between print and web that designers should remember?
+~Space in print is limited, while space in the web is infinite.

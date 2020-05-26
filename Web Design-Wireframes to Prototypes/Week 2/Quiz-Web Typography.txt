@@ -1,0 +1,23 @@
+1.Why isn’t it a good idea to justify body type on a web page?
+~Web browsers are not very good at hyphenating text at this point in time
+
+2.According to the lecture, what is the suggested minimum body text size?
+~16 px
+
+3.As a general rule of thumb, about how many characters should be on a line?
+~40-70
+
+4.True or false: You should always stay away from free web fonts.
+~False
+
+5.How do you calculate the ratio of text height to line height?
+~Divide the font size by the line height
+
+6.What’s an argument against using true black text on a true white background throughout your entire website?
+~The high contrast can cause eye fatigue
+
+7.What is a reason mentioned in the video for making text larger on desktop screens?
+~People tend to view desktop screens from a greater distance compared to mobile screens.
+
+8.What should you always do when selecting a web font for your site?
+~Make sure the web font is freely available and if not obtain a web license for it.
